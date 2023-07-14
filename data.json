@@ -1,0 +1,50 @@
+{
+    "arabica": [
+        {
+            "foto": "images/produk/product_capuchino.jpg",
+            "nama": "Cappuccino Arabica",
+            "size": "500 Gram",
+            "harga": "200.000",
+            "link": "https://www.google.com/search?q=cappuccino+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_espresso.jpg",
+            "nama": "Pahit Arabica",
+            "size": "100 Gram",
+            "harga": "100.000",
+            "link": "https://www.google.com/search?q=pahit+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Latte Arabica",
+            "size": "150 Gram",
+            "harga": "150.000",
+            "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
+        }
+    ],
+    "robusta": [
+        {
+            "foto": "images/produk/product_kopi_susu.jpg",
+            "nama": "Kopsus Robusta",
+            "size": "100 Gram",
+            "harga": "500.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Latte Robusta",
+            "size": "150 Gram",
+            "harga": "150.000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        }
+    ],
+    "noncoffee": [
+        {
+            "foto": "https://cdn0-production-images-kly.akamaized.net/4UG4-bfNlcYx88HtCEBUqGW5ca4=/1200x900/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/2284830/original/042294000_1531977695-chocolate-smoothie-1058191_1280.jpg",
+            "nama": "Susu Coklat",
+            "size": "100 Gram",
+            "harga": "150.000",
+            "link": "https://www.google.com/search?q=susu+coklat&newwindow=1&biw=1366&bih=625&sxsrf=AB5stBhKROXDIppdVkYWPbqRm_IADrQK4Q:1689255815156&tbm=isch&source=iu&ictx=1&vet=1&fir=ZvnsCaXABSkrGM%252CrVikfPnMtzlG0M%252C_%253BaT-Hd5_x9e-FVM%252CgjqvJkODPM5TUM%252C_%253B7x7-aovSFw-MqM%252C6BnqM61wKBuGQM%252C_%253BZVmKH5ADj6Hx5M%252CZQSb7cKqr8CSgM%252C_&usg=AI4_-kQbe0GwS43dMMysS2pRq4YDBUOtWg&sa=X&ved=2ahUKEwip9K-m6IuAAxWEwzgGHQ7zCKwQ_h16BAhgEAE#imgrc=aT-Hd5_x9e-FVM"
+        }
+    ]
+}
